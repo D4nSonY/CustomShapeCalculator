@@ -1,0 +1,10 @@
+C:\Code\CustomShapeCalculator\CustomShapeCalculator\CustomShapeCalculator\obj\Debug\CustomShapeCalculator.MainWindow.resources
+C:\Code\CustomShapeCalculator\CustomShapeCalculator\CustomShapeCalculator\obj\Debug\CustomShapeCalculator.Properties.Resources.resources
+C:\Code\CustomShapeCalculator\CustomShapeCalculator\CustomShapeCalculator\obj\Debug\CustomShapeCalculator.csproj.GenerateResource.cache
+C:\Code\CustomShapeCalculator\CustomShapeCalculator\CustomShapeCalculator\obj\Debug\CustomShapeCalculator.csproj.CoreCompileInputs.cache
+C:\Code\CustomShapeCalculator\CustomShapeCalculator\CustomShapeCalculator\bin\Debug\CustomShapeCalculator.exe.config
+C:\Code\CustomShapeCalculator\CustomShapeCalculator\CustomShapeCalculator\bin\Debug\CustomShapeCalculator.exe
+C:\Code\CustomShapeCalculator\CustomShapeCalculator\CustomShapeCalculator\bin\Debug\CustomShapeCalculator.pdb
+C:\Code\CustomShapeCalculator\CustomShapeCalculator\CustomShapeCalculator\obj\Debug\CustomShapeCalculator.exe
+C:\Code\CustomShapeCalculator\CustomShapeCalculator\CustomShapeCalculator\obj\Debug\CustomShapeCalculator.pdb
+C:\Code\CustomShapeCalculator\CustomShapeCalculator\CustomShapeCalculator\obj\Debug\CustomShapeCalculator.csprojAssemblyReference.cache
